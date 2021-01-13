@@ -31,5 +31,8 @@
 - **Average Order Value (AOV)**: the average amount of one order in the certain period of time. It is calculated by dividing the total number of sales revenue to total number of orders in a period of time.
 - **Customer lifetime value (CLV)**: It is the total worth to a business of a customer over the whole period of time. This is how it is calculated: AOV * (average number of orders of one customer makes in a period of time). CLV is not only a measurement of purchase-by-purchase basis, but also how valuable a customer is to the company.
 ## 4. How to conduct the EDA to assess the KPIs
-SQL and Power BI are mainly utilized in this project. Data will be retrieved from the dataset then visualized through Power BI (**The result of this project can be found in the 
+SQL and Power BI are mainly utilized in this project. Data will be retrieved from the dataset then visualized through Power BI. The result of this project can be found in the **"Exploratory Data Analysis.pdf"**
+- Perform EDA to have the overview about the data (time period, number of record, number of unique invoices, unique customers, countries, stockcode)
+- Check duplicate record (for exampple, check whether one stock code appears more than one in one invoice number)
+- Retrieve the data and create the graphs to see how revenue, number of orders, repeat customer rate change over the period. Recognize the trend of these charts and hypothesizing why these metrics perfomed that way.
 - 
