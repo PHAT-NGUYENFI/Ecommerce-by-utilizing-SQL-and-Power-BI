@@ -35,4 +35,7 @@ SQL and Power BI are mainly utilized in this project. Data will be retrieved fro
 - Perform EDA to have the overview about the data (time period, number of record, number of unique invoices, unique customers, countries, stockcode)
 - Check duplicate record (for exampple, check whether one stock code appears more than one in one invoice number)
 - Retrieve the data and create the graphs to see how revenue, number of orders, repeat customer rate change over the period. Recognize the trend of these charts and hypothesizing why these metrics perfomed that way.
-- 
+- Retrieve the data and visualize the result to gain insight how stockcode affects to the sales revenue (i.e using ABC analysis to categorize the importance of group of stockcode based on the contribution of them to the total revenue). The company has to manage thousands of items, however, it is unwise if the company allocates the resource in managing stockcode equally. This analysis will help the company to determine which products they should focus on, i.e demand forecast, inventory management, etc.
+- Retrieve the data to have information about the performance to sales revenue by country. An interesting point is discovered from the data that We can create the countries group for a better EDA.
+- Group countries, retrieve the data to evaluate the KPIs: monthly revenue, number of orders, AOV, CLV by country. Visualize the result in Power BI and try to figure out which kind of segment, which kind of products( high-end or low-end or medium price) that the company should focus on in each group of country
+- Synthesize and propose the solution to improve KPIs 
