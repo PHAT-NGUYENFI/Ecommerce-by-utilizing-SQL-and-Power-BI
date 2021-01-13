@@ -39,3 +39,5 @@ SQL and Power BI are mainly utilized in this project. Data will be retrieved fro
 - Retrieve the data to have information about the performance to sales revenue by country. An interesting point is discovered from the data that We can create the countries group for a better EDA.
 - Group countries, retrieve the data to evaluate the KPIs: monthly revenue, number of orders, AOV, CLV by country. Visualize the result in Power BI and try to figure out which kind of segment, which kind of products( high-end or low-end or medium price) that the company should focus on in each group of country
 - Synthesize and propose the solution to improve KPIs 
+## 5. Notes
+- This project is the reflection of what I have studied. Any comments or constructive feedbacks are highly appreciated
